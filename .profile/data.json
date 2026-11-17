@@ -1,0 +1,247 @@
+{
+ "key": "d0c82100",
+ "stars": 0,
+ "contributions": 19,
+ "repos": 9,
+ "followers": 2,
+ "languages": [
+  [
+   "JavaScript",
+   159338
+  ],
+  [
+   "HTML",
+   111492
+  ],
+  [
+   "CSS",
+   102430
+  ],
+  [
+   "TypeScript",
+   44465
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "adaptation",
+   "url": "https://github.com/elvs18/adaptation",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "diplom-work",
+   "url": "https://github.com/elvs18/diplom-work",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "landing",
+   "url": "https://github.com/elvs18/landing",
+   "text": "this landing site is made for portfolio",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "signup",
+   "url": "https://github.com/elvs18/signup",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "elvs18",
+   "url": "https://github.com/elvs18/elvs18",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "economics",
+   "url": "https://github.com/elvs18/economics",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "landing",
+   "url": "https://github.com/elvs18/landing",
+   "text": "this landing site is made for portfolio",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "adaptation",
+   "url": "https://github.com/elvs18/adaptation",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "frontend-nojs",
+   "url": "https://github.com/elvs18/frontend-nojs",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "diplom-work",
+   "url": "https://github.com/elvs18/diplom-work",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "signup1",
+   "url": "https://github.com/elvs18/signup1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "signup",
+   "url": "https://github.com/elvs18/signup",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "project-uzum",
+   "url": "https://github.com/elvs18/project-uzum",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
