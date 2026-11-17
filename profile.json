@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "login": "elvs18",
+  "seed": "#8B5CF6",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Acheron Bot",
+    "subtitle": "Full-Stack Web Developer & Software Engineer.\nModern Frontend Architecture, Scalable APIs & Motion Design.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "Jeez *~*"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Next.js 16 · NestJS · Go · TypeScript"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "terminal",
+        "label": "Full-Stack Web Developer & Software Engineer"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Modern Frontend Architecture (React, Next.js 16, TypeScript, Tailwind CSS)"
+      },
+      {
+        "icon": "monitoring",
+        "label": "Scalable Backend & REST APIs (NestJS, Node.js, Go, Prisma, PostgreSQL)"
+      },
+      {
+        "icon": "terminal",
+        "label": "Systems Programming & Linux Foundations (C, Bash, Docker, Git)"
+      },
+      {
+        "icon": "palette",
+        "label": "Interactive UI/UX & Motion Design (Framer Motion, Figma, Responsive Web)"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Frontend & UI",
+        "items": [
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js 16"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Backend & Data",
+        "items": [
+          {
+            "icon": "brand:nestjs",
+            "label": "NestJS"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL & Prisma"
+          }
+        ]
+      },
+      {
+        "title": "Systems & Design",
+        "items": [
+          {
+            "icon": "brand:c",
+            "label": "C & Bash"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker & Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "palette",
+            "label": "Framer Motion"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "repos",
+    "repos": [
+      "landing",
+      "project-uzum",
+      "diplom-work",
+      "economics"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/elvs18?tab=repositories",
+        "style": "filled"
+      },
+      {
+        "icon": "language",
+        "label": "GitHub Profile",
+        "url": "https://github.com/elvs18",
+        "style": "tonal"
+      }
+    ]
+  }
+}
